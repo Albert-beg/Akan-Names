@@ -30,3 +30,7 @@ Link to Live Site : https://yomzsamora.github.io/Akan-Names/
 HTML 
 CSS 
 JavaScript 
+## Support and contact details
+albertnyambegaa@gmail.com
+### License
+MIT Copyright (c) 2020 Albert Obwoge
