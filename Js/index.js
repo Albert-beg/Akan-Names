@@ -25,19 +25,19 @@ function dayOfWeek(dayname){
     function1 dayOfWeek(femalename){
         switch(femalename){
             case "Sunday":
-                return "Kwasi";
-            case "Monday":
-                return "Kwadwo";
+                return "Akosua";
+            case "aa":
+                return "Adwoa";
             case "Teusday":
-                return "Kwabena";
+                return "Abenaa";
             case "Wednesday":
-                return "Kwaku";
+                return "AKua";
             case "Thursday":
-                return "Yaw";
+                return "Yaa";
             case "Friday":
-                return "Kofi";
+                return "Afua";
             case "Saturday":
-                return"Kwame";
+                return"Ama";
             default:
                     throw "incorrect day representation";
         }
