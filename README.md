@@ -5,11 +5,12 @@ A web application that takes a user's birthday and calculates the day of the wee
 #### AUTHOR
 By ALBERT OBWOGE
 ### Setup Instructions and Installation
- Clone this repository to a location in your file system. git clone https://github.com/Albert-beg/Akan-Names.gitOpen terminal command line then navigate to the root folder of the application. cd Akan-NamesOpen index.html on your Browser.
+ Clone this repository to a location in your file system. git clone https://github.com/Albert-beg/Akan-Names.git, Open terminal command line then navigate to the root folder of the application. cd Akan-Names,Open index.html on your Browser.
 ## Known Bugs
- Incase of a bug,you are allowed to make changes.This will be accompanied with sufficient sample tests.Link to Live Site : https://albert-beg.github.io/Akan-Names/
+ Incase of a bug,you are allowed to make changes.This will be accompanied with sufficient sample tests.
+ Link to Live Site : https://albert-beg.github.io/Akan-Names/
 ## Technologies 
- UsedHTML CSS JavaScript 
+ Used HTML CSS JavaScript 
 ## Support and contact details
  albertnyambegaa@gmail.com
  ### License
